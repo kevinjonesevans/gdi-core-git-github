@@ -5,7 +5,7 @@ The course is meant to be taught in a two-hour workshop. Each of the slides and 
 
 These slides were modified and later presented by [Kevin Jones-Evans](https://github.com/kevinjonesevans) on 23.04.2016 at [Sparkbox](http://seesparkbox.com/) in Dayton, Ohio.
 
-The slides for this course can be viewed [here](http://kevinjonesevans.github.io/gdi-core-git-github)
+The slides for this course can be viewed [here](http://kevinjonesevans.github.io/gdi-dayton-git-github)
 
 ###Class Blurb
 
