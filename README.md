@@ -3,6 +3,8 @@ This is the official Girl Develop It Core Intro to Git and Github course. Materi
 
 The course is meant to be taught in a two-hour workshop. Each of the slides and practice files are customizable according to the needs of a given class or audience.
 
+These slides were modified and later presented by [Kevin Jones-Evans](https://github.com/kevinjonesevans) on 23.04.2016 at [Sparkbox](http://seesparkbox.com/) in Dayton, Ohio.
+
 The slides for this course can be viewed [here](http://kevinjonesevans.github.io/gdi-core-git-github)
 
 ###Class Blurb
